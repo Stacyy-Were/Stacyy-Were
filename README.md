@@ -19,6 +19,9 @@ I am passionate about building useful web applications and web development
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/stacy_.were)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+254115018697)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stacyy-Were&layout=compact)
+
+
 
 ![Stacy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stacyy-Were&show_icons=true&theme=radical)
 <!--

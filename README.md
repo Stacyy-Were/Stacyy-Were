@@ -15,9 +15,10 @@ I am passionate about building useful web applications and web development
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
 
 📫 Reach me:
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:stacyywere@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/stacy_.were)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Stacyy-Were)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+254115018697)
+
 
 ![Stacy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stacyy-Were&show_icons=true&theme=radical)
 <!--

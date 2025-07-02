@@ -1,5 +1,25 @@
-## Hi there 👋
+## Hi there 👋 I'm Stacy
 
+I am passionate about building useful web applications and web development
+
+🔭 I am currently learning
+
+💡 Things I love:
+- 🧠 Learning new tech
+- 🎨 Designing pages
+- 🤖 Building smart systems
+
+🔧 Languages & Tools:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
+
+📫 Reach me:
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/stacy_.were)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Stacyy-Were)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+254115018697)
+
+![Stacy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stacyy-Were&show_icons=true&theme=radical)
 <!--
 **Stacyy-Were/Stacyy-Were** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

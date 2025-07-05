@@ -1,5 +1,7 @@
 ## Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> I'm Stacy
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stacyy-were&label=Profile%20views&color=0e75b6&style=flat" alt="stacyy-were" /> </p>
+
 I am passionate about building useful systems and web development
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien.webp" alt="Alien" width="25" height="25" /> Ccurrently learning
@@ -11,9 +13,6 @@ I am passionate about building useful systems and web development
 
 🔧 Languages & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=bash,&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/iconsi=bash,mysql,netlify,supabase,vscode&theme=light)](https://skillicons.dev)
-
 📫 Reach me:
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:stacyywere@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/stacy_.were)
@@ -23,7 +22,7 @@ I am passionate about building useful systems and web development
 
 
 
-![Stacy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stacyy-Were&show_icons=true&theme=radical)
+![Stacy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stacyy-Were&show_icons=true&theme=synthwave)
 <!--
 **Stacyy-Were/Stacyy-Were** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

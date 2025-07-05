@@ -5,7 +5,7 @@ I am passionate about building useful web applications and web development
 🔭 I am currently learning
 
 💡 Things I love:
-- 🧠 Learning new tech
+- 🧠 Learning tech
 - 🎨 Designing pages
 - 🤖 Building smart systems
 

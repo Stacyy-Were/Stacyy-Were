@@ -12,7 +12,7 @@ I am passionate about building useful systems and web development
 🔧 Languages & Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=bash,&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=bash,mysql,netlify,supabase,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/iconsi=bash,mysql,netlify,supabase,vscode&theme=light)](https://skillicons.dev)
 
 📫 Reach me:
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:stacyywere@gmail.com)

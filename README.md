@@ -10,7 +10,7 @@ I am passionate about building useful systems and web development
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="25" height="25" /> Building smart/functional systems
 
 🔧 Languages & Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,&theme=light)](https://skillicons.dev)
 
 
 📫 Reach me:

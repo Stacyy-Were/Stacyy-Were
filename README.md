@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Stacy
 
-I am passionate about building useful web applications and web development
+I am passionate about building useful systems and web development
 
 🔭 I am currently learning
 

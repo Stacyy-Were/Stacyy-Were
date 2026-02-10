@@ -1,6 +1,8 @@
-# 🏎️ STACY WERE // PERFORMANCE & SECURITY OPS
+# 🏎️ STACY WERE - PERFORMANCE & SECURITY OPS
 
-### [ STATUS: P1 ] [ SECTOR 1: SYS_ADMIN ] [ SECTOR 2: DEV ] [ SECTOR 3: PENTEST ]
+###[ SECTOR 1: SYS_ADMIN ] 
+   [ SECTOR 2: DEV ] 
+   [ SECTOR 3: PENTEST ]
 
 I’m a System Administrator and Programmer currently taking the **Offensive Security** line. I build high-availability infrastructure and then use the **TryHackMe Pentester Path** to find the limit, break the grip, and secure the track.
 

@@ -31,10 +31,8 @@ I am currently navigating the **TryHackMe Offensive Pentesting** circuit. My goa
 
 ## 📡 PIT WALL (Contact)
 
-Got a system that needs tuning or a network that needs a stress test? 
-
 - **Radio Check:** [stacyywere@gmail.com](mailto:stacyywere@gmail.com)
-- **THM Ranking:** [View My Driver Profile](https://tryhackme.com/p/StacyWere)
+- **THM Ranking:** [TryHackMe](https://tryhackme.com/p/StacyWere)
 - **Status:** Looking for the next seat in Security Operations or Junior Pentesting.
 
 ---

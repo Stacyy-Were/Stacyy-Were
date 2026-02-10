@@ -29,15 +29,6 @@ I am currently navigating the **TryHackMe Offensive Pentesting** circuit. My goa
 
 ---
 
-## 📊 SEASON STATS
-
-## 📊 SEASON STATS
-
-![Stacy's Stats](https://github-readme-stats.vercel.app/api?username=Stacyy-Were&show_icons=true&theme=tokyonight&border_color=ccff00&icon_color=ccff00&text_color=ffffff&title_color=ccff00)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stacyy-Were&layout=compact&theme=tokyonight&border_color=ccff00&text_color=ffffff&title_color=ccff00)
-
----
-
 ## 📡 PIT WALL (Contact)
 
 Got a system that needs tuning or a network that needs a stress test? 
